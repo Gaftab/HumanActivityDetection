@@ -1,0 +1,21 @@
+metadata_version: 1
+name: Fusion Mechanisms for Human Activity Recognition using Automated Machine Learning
+description: This repository contains relevant source code that was used while testing
+  and implementing the human activity recognition system described in paper "Fusion
+  Mechanisms for Human Activity Recognition using Automated Machine Learning".
+tags:
+- computer-vision
+- human-activity-recognition
+authors:
+- name: Ana-Cosmina Popescu
+  affiliations:
+  - name: University POLITEHNICA of Bucharest
+- name: Irina Mocanu
+  affiliations:
+  - name: University POLITEHNICA of Bucharest
+- name: Bogdan Cramariuc
+  affiliations:
+  - name: IT Center for Science and Technology
+corresponding_contributor:
+  name: Ana-Cosmina Popescu
+  email: anacosminapopescu@gmail.com

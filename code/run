@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -ex
+
+python -u mhi.py
+python -u depth_plots.py
+python -u extract_depth_data.py
+python -u dmm.py
